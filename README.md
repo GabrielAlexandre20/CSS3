@@ -1,2 +1,2 @@
 # CSS3
-Projeto consultor inteligente agrícola
+Repositório para arquivos de treino em CSS3
